@@ -1,2 +1,3 @@
 # awesome-sound
-A curated list of delightful sound packages and resources.
+A curated list of delightful sound & audio packages and resources.
+
