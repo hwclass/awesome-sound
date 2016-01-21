@@ -4,7 +4,7 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 
-**Check out my [blog](https://hwclass.in) 🦄 or say *hi* on [Twitter](https://twitter.com/hwclass).**
+**Check out my [blog](https://hwclass.in) or say *hi* on [Twitter](https://twitter.com/hwclass).**
 
 ### Javascript
 
