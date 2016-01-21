@@ -28,3 +28,18 @@ A curated list of delightful sound & audio packages and resources.
 * [alsaaudio](http://larsimmisch.github.io/pyalsaaudio/)
 * [audiosocket](https://pypi.python.org/pypi/audiosocket/)
 * [pySonic](http://pysonic.sourceforge.net/)
+
+### Ruby
+
+* [ruby-audio](https://rubygems.org/gems/ruby-audio/)
+* [archaeopteryx](https://github.com/gilesbowkett/archaeopteryx)
+* [jazz_model](https://github.com/rubiety/jazz_model)
+* [unimidi](https://github.com/arirusso/unimidi)
+* [midiator](https://github.com/bleything/midiator)
+* [midilib](https://github.com/jimm/midilib)
+* [micromidi](https://github.com/arirusso/micromidi)
+* [ruby_music_projects](https://github.com/Gabrielg1976/ruby_music_projects)
+* [cosy](https://github.com/adamjmurray/cosy)
+* [diamond](https://github.com/arirusso/diamond)
+* [gitara](https://github.com/gsmendoza/gitara)
+* [patchmaster](https://github.com/jimm/patchmaster)
