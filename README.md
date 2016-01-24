@@ -48,3 +48,17 @@
 * [diamond](https://github.com/arirusso/diamond)
 * [gitara](https://github.com/gsmendoza/gitara)
 * [patchmaster](https://github.com/jimm/patchmaster)
+
+###Lua
+
+* [ao](https://luarocks.org/modules/luarocks/ao)
+* [audiodevice](https://luarocks.org/modules/_asm/mjolnir._asm.sys.audiodevice)
+* [fluidsynth](https://luarocks.org/modules/peterbillam/fluidsynth)
+* [lua~](http://www.mat.ucsb.edu/~wakefield/lua~/lua~.htm)
+* [TEsound](https://love2d.org/wiki/TEsound)
+* [slam](https://github.com/vrld/slam)
+* [sfxrlua](https://github.com/nucular/sfxrlua)
+* [GGSound](https://github.com/GlitchGames/GGSound)
+* [osc](http://doc.lubyk.org/osc.html)
+* [MIDI](http://www.pjb.com.au/comp/lua/MIDI.html)
+* [midialsa](http://www.pjb.com.au/comp/lua/midialsa.html)
