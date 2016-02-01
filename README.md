@@ -19,6 +19,7 @@
 * [pedalboard.js](https://github.com/dashersw/pedalboard.js)
 * [howler.js](https://github.com/goldfire/howler.js/)
 * [WebAudioX](https://github.com/jeromeetienne/webaudiox)
+* [react-sound](https://www.npmjs.com/package/react-sound)
 
 ### Python
 
