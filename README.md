@@ -76,3 +76,10 @@
 * [dynne](https://clojars.org/org.craigandera/dynne)
 * [mantra](https://clojars.org/mantra)
 * [wad](https://clojars.org/cljsjs/wad)
+
+###Java
+* [javax.sound.sampled](https://docs.oracle.com/javase/7/docs/api/javax/sound/sampled/package-summary.html)
+* [javax.sound.midi](https://docs.oracle.com/javase/7/docs/api/javax/sound/midi/package-summary.html)
+* [tritonus](http://www.tritonus.org/)
+* [JSAPI](http://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/index.html)
+* [javax.speech](https://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/javax/speech/package-summary.html)
