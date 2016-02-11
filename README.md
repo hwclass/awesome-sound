@@ -94,3 +94,9 @@
 ##Articles
 
 * [Getting Started with Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
+
+##Applications
+
+* [MuseScore](https://musescore.org/)
+* [LilyPond](https://musescore.org/)
+* [GuitarPro](https://www.guitar-pro.com/en/)
