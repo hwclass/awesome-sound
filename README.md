@@ -83,3 +83,7 @@
 * [tritonus](http://www.tritonus.org/)
 * [JSAPI](http://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/index.html)
 * [javax.speech](https://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/javax/speech/package-summary.html)
+
+##Projects
+
+* [Sonic Pi](http://sonic-pi.net/)
