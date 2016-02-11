@@ -88,7 +88,7 @@
 
 ##Projects
 
-* [Sonic Pi](http://sonic-pi.net/)[github](https://github.com/samaaron/sonic-pi)
+* [Sonic Pi](http://sonic-pi.net/) ([github](https://github.com/samaaron/sonic-pi))
 * [musicForProgramming()](http://musicforprogramming.net/)
 
 ##Articles
