@@ -6,6 +6,8 @@
 
 **Check out my [blog](https://hwclass.in) or say *hi* on [Twitter](https://twitter.com/hwclass).**
 
+##Programming Languages
+
 ### Javascript
 
 * [Node Web Audio API](https://github.com/sebpiq/node-web-audio-api)
@@ -86,4 +88,9 @@
 
 ##Projects
 
-* [Sonic Pi](http://sonic-pi.net/)
+* [Sonic Pi](http://sonic-pi.net/)[github](https://github.com/samaaron/sonic-pi)
+* [musicForProgramming()](http://musicforprogramming.net/)
+
+##Articles
+
+* [Getting Started with Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
