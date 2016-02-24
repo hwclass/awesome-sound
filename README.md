@@ -100,3 +100,7 @@
 * [MuseScore](https://musescore.org/)
 * [LilyPond](https://musescore.org/)
 * [GuitarPro](https://www.guitar-pro.com/en/)
+
+##Other Awesome Lists
+
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
