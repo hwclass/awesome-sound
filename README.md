@@ -86,6 +86,11 @@
 * [JSAPI](http://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/index.html)
 * [javax.speech](https://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/javax/speech/package-summary.html)
 
+###Specific Languages/Environments
+* [ChucK](http://chuck.cs.princeton.edu/)
+* [Alda](https://github.com/alda-lang/alda)
+* [Structured Audio Orchestra Language](https://www.wikiwand.com/en/Structured_Audio_Orchestra_Language)
+
 ##Projects
 
 * [Sonic Pi](http://sonic-pi.net/) ([github](https://github.com/samaaron/sonic-pi))
