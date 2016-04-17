@@ -95,6 +95,7 @@
 
 * [Sonic Pi](http://sonic-pi.net/) ([github](https://github.com/samaaron/sonic-pi))
 * [musicForProgramming()](http://musicforprogramming.net/)
+* [Nyquist](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/music/web/music.software.html)
 
 ##Articles
 
