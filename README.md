@@ -24,6 +24,7 @@
 * [Sound Manager 2](https://github.com/scottschiller/SoundManager2)
 * [react-sound](https://www.npmjs.com/package/react-sound)
 * [Tone.js](https://github.com/Tonejs/Tone.js)
+* [Chnl](https://github.com/scriptify/Chnl)
 
 ### Python
 
