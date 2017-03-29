@@ -109,7 +109,7 @@
 ##Applications
 
 * [MuseScore](https://musescore.org/)
-* [LilyPond](https://musescore.org/)
+* [LilyPond](http://lilypond.org/)
 * [GuitarPro](https://www.guitar-pro.com/en/)
 
 ##Other Awesome Lists
