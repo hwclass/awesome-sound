@@ -25,6 +25,9 @@
 * [react-sound](https://www.npmjs.com/package/react-sound)
 * [Tone.js](https://github.com/Tonejs/Tone.js)
 * [Chnl](https://github.com/scriptify/Chnl)
+* [React Sound](https://www.npmjs.com/package/react-sound)
+* [Redux Sounds](https://github.com/joshwcomeau/redux-sounds)
+* [React Native Sound](https://github.com/zmxv/react-native-sound)
 
 ### Python
 
