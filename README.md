@@ -58,7 +58,7 @@
 * [gitara](https://github.com/gsmendoza/gitara)
 * [patchmaster](https://github.com/jimm/patchmaster)
 
-###Lua
+### Lua
 
 * [ao](https://luarocks.org/modules/luarocks/ao)
 * [audiodevice](https://luarocks.org/modules/_asm/mjolnir._asm.sys.audiodevice)
@@ -72,7 +72,7 @@
 * [MIDI](http://www.pjb.com.au/comp/lua/MIDI.html)
 * [midialsa](http://www.pjb.com.au/comp/lua/midialsa.html)
 
-###Clojure(Script)
+### Clojure(Script)
 * [hum](https://github.com/mathias/hum)
 * [korova-drop](https://github.com/kapilreddy/korova-drop)
 * [web-audio](https://clojars.org/web-audio)
@@ -84,34 +84,34 @@
 * [mantra](https://clojars.org/mantra)
 * [wad](https://clojars.org/cljsjs/wad)
 
-###Java
+### Java
 * [javax.sound.sampled](https://docs.oracle.com/javase/7/docs/api/javax/sound/sampled/package-summary.html)
 * [javax.sound.midi](https://docs.oracle.com/javase/7/docs/api/javax/sound/midi/package-summary.html)
 * [tritonus](http://www.tritonus.org/)
 * [JSAPI](http://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/index.html)
 * [javax.speech](https://docs.oracle.com/cd/E17802_01/products/products/java-media/speech/forDevelopers/jsapi-doc/javax/speech/package-summary.html)
 
-###Specific Languages/Environments
+### Specific Languages/Environments
 * [ChucK](http://chuck.cs.princeton.edu/)
 * [Alda](https://github.com/alda-lang/alda)
 * [Structured Audio Orchestra Language](https://www.wikiwand.com/en/Structured_Audio_Orchestra_Language)
 
-##Projects
+## Projects
 
 * [Sonic Pi](http://sonic-pi.net/) ([github](https://github.com/samaaron/sonic-pi))
 * [musicForProgramming()](http://musicforprogramming.net/)
 * [Nyquist](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/music/web/music.software.html)
 
-##Articles
+## Articles
 
 * [Getting Started with Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
 
-##Applications
+## Applications
 
 * [MuseScore](https://musescore.org/)
 * [LilyPond](http://lilypond.org/)
 * [GuitarPro](https://www.guitar-pro.com/en/)
 
-##Other Awesome Lists
+## Other Awesome Lists
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
